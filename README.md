@@ -5,5 +5,5 @@ Script written in Python executes at 12 noon everyday using Cron - a Command Lin
 .pem is the private key required by AWS EC3 to give access.
 
 # Note
-Copyright: freeCodeCamp
+Copyright: freeCodeCamp.
 I have only used this code for learning and experimenting purposes.
